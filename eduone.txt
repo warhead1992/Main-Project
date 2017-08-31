@@ -7,3 +7,4 @@ country-india
 father name-khalid
 mother name-zahida
 sister name-hera
+uncle name-abid
