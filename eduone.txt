@@ -1,3 +1,4 @@
 name-Hassan
 city-patna
 pin-800004
+state-Bihar
