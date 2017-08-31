@@ -5,3 +5,4 @@ state-bihar
 pin code-800004
 country-india
 father name-khalid
+mother name-zahida
