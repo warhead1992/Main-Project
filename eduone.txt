@@ -2,3 +2,4 @@ name-Hassan
 Age-25
 city-patna
 state-bihar
+pin code-800004
